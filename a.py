@@ -1,3 +1,2 @@
-import torch
-print(torch.exp(torch.arange(6).reshape(2, 3).float()))
-a = torch.arange(10).reshape(2, 5)
+
+print(2 * 64 * 7 * 7 + 64 * 64 * 3 * 3 + 64 * 64 * 3 * 3 + )
